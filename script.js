@@ -1,3 +1,3 @@
-function feature() {
-  console.log("Cooles Feature!");
+function coolFeature() {
+  console.log("Cooles Feature!!!");
 }
